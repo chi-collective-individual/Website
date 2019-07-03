@@ -55,7 +55,7 @@ Kontaktperson: <br>Ragnvald Mathiesen,<br>Mail: <a href="mailto:ragnvald.mathies
 <div class="projleft">
 <ul class="projmenu">
 <lh>Prosjekt og forksningsstillinger</lh> <!--title of the list-->
-<li><a title="Intervju med forskningsassistent Alenka" href="intervjuAlenka.html">Intervju med forskningsassistent Alenka</li>
+<li><a title="Intervju med forskningsassistent Alenka" href="intervjuAlenka.html">Intervju med forskningsassistent Alenka</a></li>
 <li><a title="First project" href="https://www.cen.dtu.dk/english/research/projects/transmission-kikuchi-diffraction-characterization-of-cu-nanoparticles-in-the-sem">First project </a></li>
 <li><a title="Another project" href="http://home.phys.ntnu.no/brukdef/undervisning/fyslab/oppgave.html#usikkerhet">Another project</a></li>
 <li><a title="Third project" href="https://www.aftenposten.no/">Third project</a></li>
