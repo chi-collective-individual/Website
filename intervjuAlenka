@@ -1,7 +1,7 @@
 <html lang="no-nb">
 <head>
 <meta charset="UTF-8">
-<title>Oppdatere øvinger i FY1001</title>
+<title>Intervju med forskningsassistent Alenka</title> <!-- Must change title when creating a new project -->
 <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 </head>
 
@@ -48,10 +48,10 @@ Jeg lærer noe nytt hver dag, og erfaringene fra sommerprosjektet i fjor samt pr
 </p>
 </div>
 
-<!-- <div class="cbox"> 
+<div class="cbox"> <!-- Must comment this out if no contact person is needed. -->
 Kontaktperson: <br>Ragnvald Mathiesen,<br>Mail: <a href="mailto:ragnvald.mathiesen@ntnu.no">ragnvald.mathiesen@ntnu.no</a><br>Kontor: D4-157, Realfagbygget
 </div>
---> 
+
 <div class="projleft">
 <ul class="projmenu">
 <lh>Prosjekt og forksningsstillinger</lh> <!--title of the list-->
