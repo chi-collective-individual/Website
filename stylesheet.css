@@ -1,0 +1,92 @@
+a {
+	text-decoration:none;
+}
+body {background-color: rgba(0,0,255,0.1)}
+
+lh{
+	font-weight:bold;
+}
+h1{
+	text-align:center;
+	width: 10%; 
+	font-weight:bold;
+}
+
+
+.navmenu{
+	text-align:center;
+	font-size:12px;
+	background-color:rgba(255, 255, 255, 1);
+	color:rgba(0, 0, 0, 1);
+	width: 100%;
+	float:left;
+	list-style-type:none;
+	position:sticky;
+	top:0;
+}
+
+.navmenu li{
+	display:block;
+	padding:4px;
+	font-size:20px;
+	float:left;
+	border-right: 1px solid;
+}
+
+.navmenu li:last-child{
+	border-right:none; 
+	float:left;
+}
+
+.projleft{
+	left:0;
+	width:20%;
+}
+
+.projright{
+	position:relative;
+	left:-30%;
+	width:50%;
+	float:right;
+}
+.projmenu{ /*Not happy with the spacing from the top. Either needs to use same headersize for Ideaspace and projects or need to find a way to dynamically alter the top margin*/
+	position:relative;
+	top:60px;
+	list-style-type:none;
+	text-align:left;
+	margin:auto;
+}
+
+.projmenu li{
+	border-top:solid 1px;
+	width:95%;
+}
+
+.projmenu li:last-child{
+	border-bottom:solid 1px;
+}
+
+.fullscreen{
+	clear:both;
+	position:relative;
+	top:30px;
+}
+
+.cbox{ /*Make it as a list so ypu can have a general background color behind contact etc?*/
+	position:relative;
+	left:45%;
+	top:50px;
+	width:20%;
+	float:right;
+	border: 1px solid;
+}
+
+.footer {
+	clear:both;
+	border-top:solid grey 1px;
+	position:relative;
+	width:100%;
+	top:100px;
+	background-color:rgb(165, 165, 165);
+	font-size:12px;
+}
