@@ -47,6 +47,7 @@ h1{
 	position:relative;
 	left:-30%;
 	width:50%;
+	height:10px;
 	float:right;
 }
 .projmenu{ /*Not happy with the spacing from the top. Either needs to use same headersize for Ideaspace and projects or need to find a way to dynamically alter the top margin*/
