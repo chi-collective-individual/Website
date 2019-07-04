@@ -16,8 +16,8 @@ h1{
 .navmenu{
 	text-align:center;
 	font-size:12px;
-	background-color:rgba(255, 255, 255, 1);
-	color:rgba(0, 0, 0, 1);
+	background-color:rgba(0, 0, 0, 1);
+	color:rgba(255, 255, 255, 1);
 	width: 100%;
 	float:left;
 	list-style-type:none;
